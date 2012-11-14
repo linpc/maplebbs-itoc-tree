@@ -7,6 +7,7 @@
 .lesshst
 .vimrc
 .viminfo
+.USR
 .vim/
 .ssh/
 bak/
@@ -18,4 +19,6 @@ tmp/
 usr/
 innd/bbslink
 innd/innbbsd
+innd/*.bbs
 innd/*.link
+innd/history/
